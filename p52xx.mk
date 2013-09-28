@@ -1,10 +1,5 @@
 
 
-
-PRODUCT_PACKAGES += \
-	libpci_static
-
-
 ## During Development we will turn off all security etc
 ## because it really is a pain in the fucking rear 
 ADDITIONAL_DEFAULT_PROPERTIES := \
